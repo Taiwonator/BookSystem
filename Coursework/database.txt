@@ -1,0 +1,11 @@
+   ID|                 NAME|          AUTHOR|   PURCHASE DATE|    MEMBER_ID
+    1|               Book_1|        Author_1|       1/18/2010|         1458
+    2|               Book_2|        Author_2|       1/18/2014|         1458
+    3|               Book_1|        Author_1|       1/18/2010|         1458
+    4|               Book_3|        Author_3|       1/18/2010|         1458
+    5|               Book_4|        Author_4|       1/18/2010|         1458
+    6|               Book_5|        Author_3|       1/18/2010|         1458
+    7|               Book_6|      JK_Rowling|       1/18/2015|         1458
+    8|               Book_7|      JK_Rowling|       1/18/2017|         1458
+    9|               Book_4|        Author_4|       1/18/2015|         1458
+   10|               Book_3|        Author_3|       1/18/2015|            0
